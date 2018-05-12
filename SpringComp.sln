@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulArrays", "Beautifu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{4B4616E5-9DF6-4DF3-81E6-052052177D74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryMan", "DeliveryMan\DeliveryMan.csproj", "{417DFD4A-ECA3-4F14-809A-06641B37CEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4B4616E5-9DF6-4DF3-81E6-052052177D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4616E5-9DF6-4DF3-81E6-052052177D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4616E5-9DF6-4DF3-81E6-052052177D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417DFD4A-ECA3-4F14-809A-06641B37CEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417DFD4A-ECA3-4F14-809A-06641B37CEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417DFD4A-ECA3-4F14-809A-06641B37CEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417DFD4A-ECA3-4F14-809A-06641B37CEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
