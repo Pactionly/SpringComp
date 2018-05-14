@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeaniesRoute", "JeaniesRout
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPermutation", "LargestPermutation\LargestPermutation.csproj", "{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandragoraForest", "MandragoraForest\MandragoraForest.csproj", "{D7BB2C1A-9F6F-4A46-9DBF-B4A5C0069DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BB2C1A-9F6F-4A46-9DBF-B4A5C0069DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BB2C1A-9F6F-4A46-9DBF-B4A5C0069DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BB2C1A-9F6F-4A46-9DBF-B4A5C0069DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BB2C1A-9F6F-4A46-9DBF-B4A5C0069DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
