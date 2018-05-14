@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandragoraForest", "Mandrag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumLoss", "MinimumLoss\MinimumLoss.csproj", "{F7B6D3C4-4F75-4387-9CDB-74387C9264E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mode", "Mode\Mode.csproj", "{758BCA7C-2D07-4803-94F2-BE674278FB4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F7B6D3C4-4F75-4387-9CDB-74387C9264E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7B6D3C4-4F75-4387-9CDB-74387C9264E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7B6D3C4-4F75-4387-9CDB-74387C9264E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758BCA7C-2D07-4803-94F2-BE674278FB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758BCA7C-2D07-4803-94F2-BE674278FB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758BCA7C-2D07-4803-94F2-BE674278FB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758BCA7C-2D07-4803-94F2-BE674278FB4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
