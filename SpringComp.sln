@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryMan", "DeliveryMan\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeaniesRoute", "JeaniesRoute\JeaniesRoute.csproj", "{9AA963DA-666E-4B96-AFF3-E5649831470D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPermutation", "LargestPermutation\LargestPermutation.csproj", "{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9AA963DA-666E-4B96-AFF3-E5649831470D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA963DA-666E-4B96-AFF3-E5649831470D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA963DA-666E-4B96-AFF3-E5649831470D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCA8F78-60AD-4315-93BD-A815C3BE68EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
